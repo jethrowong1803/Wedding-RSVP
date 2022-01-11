@@ -1,0 +1,17 @@
+/*  pink color style    */
+.btn-1:hover,
+.story-section .couple h3,
+.header .nav ul li a.active,
+.header .nav ul li a:hover{
+	color:#fb839e;
+}
+
+.btn-1,
+.story-section img{
+	border-color:#fb839e;
+}
+
+.btn-1,
+.rsvp-section{
+	background-color: #fb839e;
+}
